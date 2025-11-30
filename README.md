@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**UserHiddenH/UserHiddenH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at Université Paris Cité (Paris, France) with strong interests in software engineering, artificial intelligence, machine learning, and algorithmic problem-solving.
 
-Here are some ideas to get you started:
+🔎 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing a Bachelor’s degree in Computer Science
+
+Focused on building solid skills in AI/ML, data structures, algorithms, and systems programming
+
+Active in competitive programming, improving analytical and problem-solving skills
+
+Motivated to work on impactful, well-engineered software projects
+
+
+🛠️ Technical Skills
+
+Languages: Python, C, Java, SQL
+
+📂 What I Work On
+
+Implementation of algorithms and data structures
+
+Machine learning projects and research explorations
+
+Competitive programming solutions
+
+University coursework and personal development projects
+
+
+📫 Contact
+
+Feel free to send me a message ! 
