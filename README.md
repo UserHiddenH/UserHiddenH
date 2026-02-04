@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Computer Science student at Université Paris Cité (Paris, France) with strong interests in software engineering, artificial intelligence, machine learning, and algorithmic problem-solving.
+I am a Computer Science student at Université Paris Cité (Paris, France) with strong interests in machine learning, deep learning, computer vision and algorithmic problem-solving.
 
 🔎 About Me
 
