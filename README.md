@@ -15,7 +15,7 @@ Motivated to work on impactful, well-engineered software projects
 
 🛠️ Technical Skills
 
-Languages: Python, C, Java, SQL
+Languages: Python, C, Java, SQL, HTML5, CSS, PHP, JavaScript
 
 📂 What I Work On
 
